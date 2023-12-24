@@ -2,7 +2,7 @@
 - 👀 I’m interested in taskcoach project
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on taskcoach
-- 📫 How to reach me ...
+- 📫 How to reach me : szydlowskis@aol.com
 
 <!---
 freedomsha/freedomsha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
